@@ -40,22 +40,14 @@ Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/
 
 - 📰 **[Data This Week](https://datathisweek.com/)** - Weekly issues on data engineering deep dives, tool updates and open roles (latest: #33)
 
-## Impact
-
-- ⚡ Cut Spark ETL runtime **6h → 3.5h** and monthly compute **$18K → $12.6K**
-- 💾 Cut S3 storage **30%** and sped up queries **4×** via compaction, clustering and snapshot expiry
-- ✅ **99.9%** pipeline reliability for 800+ users across 50+ production Airflow DAGs
-- 🧑‍🏫 Tech lead (IC) of a 5-engineer pod, owning the Iceberg lakehouse platform
 
 ## What I'm Doing
 
 - **Building lakehouse platforms** on Iceberg, Spark and Airflow
 - **Writing every week** at [datathisweek.com](https://datathisweek.com/)
-- **Shipping with AI tools:** Claude Code, Cursor and OpenCode across design, code, testing and release
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-with-ashish)
 [![Newsletter](https://img.shields.io/badge/-Data%20This%20Week-FF5722?style=flat-square&logo=rss&logoColor=white)](https://datathisweek.com/)
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-ashish-y&show_icons=true&hide_border=true&count_private=true)
