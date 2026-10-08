@@ -5,14 +5,15 @@ I build and run lakehouse platforms on **Apache Spark, Iceberg, Airflow and Kube
 - 🔭 **Now:** tech lead (IC) for a 5-engineer data platform pod at [The Modern Data Company](https://www.linkedin.com/in/data-with-ashish)
 - 🧱 **Focus:** open table formats (Iceberg), lakehouse cost & performance, orchestration reliability
 - 🧪 **Local-first:** reproducible data stacks you can run on a laptop with Docker / kind
+- 📰 **Writing:** I run [Data This Week](https://datathisweek.com/), a weekly briefing on data engineering, lakehouse tooling and open data roles
 
 ### Selected projects
 
 | Project | What it demonstrates |
 |---|---|
-| [local_aws_floci_terraform](https://github.com/y-ashish-y/local_aws_floci_terraform) | End-to-end local lakehouse: Terraform → S3 → Iceberg (Nessie) → Spark on Kubernetes → Airflow DAG |
-| [spark_lineage](https://github.com/y-ashish-y/spark_lineage) | Spark data lineage with Spline + Iceberg, DataFrame and Spark SQL |
-| [apache-iceberg-minio-spark](https://github.com/y-ashish-y/apache-iceberg-minio-spark) | Iceberg 1.12 + Spark 4.2 + SeaweedFS + JDBC catalog, reproducible via Compose |
+| [local-aws-floci-terraform](https://github.com/y-ashish-y/local-aws-floci-terraform) | End-to-end local lakehouse: Terraform → S3 → Iceberg (Nessie) → Spark on Kubernetes → Airflow DAG |
+| [spark-lineage](https://github.com/y-ashish-y/spark-lineage) | Spark data lineage with Spline + Iceberg, DataFrame and Spark SQL |
+| [iceberg-seaweedfs-lakehouse](https://github.com/y-ashish-y/iceberg-seaweedfs-lakehouse) | Iceberg 1.12 + Spark 4.2 + SeaweedFS (S3) + JDBC catalog, reproducible via Docker Compose |
 
 ### Impact
 
@@ -29,6 +30,6 @@ I build and run lakehouse platforms on **Apache Spark, Iceberg, Airflow and Kube
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/data-with-ashish) · 9530379+y-ashish-y@users.noreply.github.com
+[LinkedIn](https://www.linkedin.com/in/data-with-ashish) · [Data This Week newsletter](https://datathisweek.com/)
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-ashish-y&show_icons=true&hide_border=true&count_private=true)
