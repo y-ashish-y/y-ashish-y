@@ -2,7 +2,7 @@
 
 📍 **Hyderabad, India** | 🧱 **Lakehouse builder** | 📰 **Writer, [Data This Week](https://datathisweek.com/)**
 
-Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/data-with-ashish)**, tech lead (IC) of a 5-engineer platform pod. Running a 300 TB Iceberg lakehouse on Spark, Airflow and Kubernetes.
+Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/data-with-ashish)**, tech lead (IC) of a 5-engineer platform pod.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
