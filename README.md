@@ -2,7 +2,7 @@
 
 📍 **Hyderabad, India** | 🧱 **Lakehouse builder** | 📰 **Writer, [Data This Week](https://datathisweek.com/)**
 
-Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/data-with-ashish)**, tech lead (IC) of a 5-engineer platform pod.
+Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/data-with-ashish)**.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -29,6 +29,7 @@ Senior Data Engineer at **[The Modern Data Company](https://www.linkedin.com/in/
 - 🧱 **[local-aws-floci-terraform](https://github.com/y-ashish-y/local-aws-floci-terraform)** - Terraform → S3 → Iceberg (Nessie) → Spark on K8s → Airflow DAG, zero cloud bill
 - 🧊 **[iceberg-seaweedfs-lakehouse](https://github.com/y-ashish-y/iceberg-seaweedfs-lakehouse)** - Iceberg JDBC catalog, SeaweedFS S3 and Spark 4.2 in Compose
 - 🔍 **[spark-lineage](https://github.com/y-ashish-y/spark-lineage)** - Column-level lineage with Spline, PySpark and Spark SQL
+- 🦆 **[duckxlsx](https://github.com/y-ashish-y/duckxlsx)** - DuckDB add-in for Excel, LibreOffice and GridCraft: import/export sheet data to a local DuckDB file
 
 ### Analytics & ML Notebooks
 
